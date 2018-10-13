@@ -122,4 +122,3 @@ class recordFactory {
     }
 }
 
-echo "whatever";
